@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+  <title id="title">SILC 学习资源共享社区</title>
+  <desc id="desc">让知识积累，让后来者少走弯路。暖白背景、深墨蓝文字与橙色书页线稿。</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#172554" stroke-opacity=".045"/></pattern>
+  </defs>
+  <rect width="1440" height="440" rx="24" fill="#FAF9F6"/>
+  <rect width="1440" height="440" rx="24" fill="url(#grid)"/>
+  <rect x="64" y="62" width="5" height="20" rx="2" fill="#F97316"/>
+  <g font-family="'Microsoft YaHei','PingFang SC','Noto Sans CJK SC',sans-serif" fill="#172554">
+    <text x="83" y="79" font-size="16" letter-spacing="3">SILC / OPEN LEARNING</text>
+    <text x="60" y="178" font-size="54" font-weight="700">SILC 学习资源共享社区</text>
+    <text x="64" y="240" font-size="29">让知识积累，让后来者少走弯路。</text>
+    <text x="64" y="300" font-size="18" fill="#536078">课程资料 · 学习笔记 · 复习经验</text>
+    <text x="64" y="376" font-size="14" fill="#536078" letter-spacing="1">SHU-SILC-OSC · 学生共建 · 非官方社区</text>
+  </g>
+  <circle cx="1180" cy="222" r="154" fill="#F97316" fill-opacity=".065"/>
+  <g fill="#FAF9F6" stroke="#172554" stroke-width="3.5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M1040 164V130Q1040 118 1052 118H1120L1144 140H1295Q1307 140 1307 152V304Q1307 316 1295 316H1052Q1040 316 1040 304Z" stroke-opacity=".35"/>
+    <path d="M1080 114H1224L1260 150V282H1080Z"/>
+    <path d="M1224 114V150H1260" fill="#FFEDD5"/>
+    <path d="M1104 170H1200M1104 192H1228M1104 214H1200" stroke-opacity=".3"/>
+    <path d="M1032 248Q1090 228 1167 254Q1237 228 1294 248V338Q1229 320 1167 348Q1100 320 1032 338Z"/>
+    <path d="M1167 254V348" stroke="#F97316"/>
+    <path d="M1055 273Q1100 263 1143 279M1055 296Q1100 286 1143 302M1190 279Q1235 263 1272 273M1190 302Q1235 286 1272 296" stroke-opacity=".28"/>
+  </g>
+  <g stroke="#F97316" stroke-width="3" stroke-linecap="round"><path d="M1320 100V120M1310 110H1330M990 330V346M982 338H998"/></g>
+</svg>
